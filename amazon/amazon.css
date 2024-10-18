@@ -1,0 +1,477 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+html, body{
+    width: 100%;
+    height: 300%;
+
+}
+
+#main{
+    
+    width: 100%;
+    height: 100%;
+    background-color: rgb(187, 183, 183);
+
+}
+
+#f1{
+    display: flex;
+    position: relative;
+    padding: 10px;
+    width: 100%;
+    height: 60px;
+    background-color: #131A22;
+}
+
+#f1a{
+
+    width: 10%;
+    height: 80%;
+    background-image: url(https://www.iconpacks.net/icons/free-icons-6/free-amazon-rounded-square-logo-symbol-button-icon-19640-thumb.png);
+    background-position: center;
+    background-size: cover;
+}
+
+#f1b{
+    width: 10%;
+    height: 100%;
+    color: white;
+}
+
+#f1b h6{
+    width: 100%;
+    height: 50%;
+    color: white;
+    font-weight: 300;
+    opacity: .5;
+}
+
+#h61{
+    font-size: 15px;
+    font-weight: 500;
+}
+
+#f1c{ 
+    width: 35%; 
+
+
+}
+
+#f1c form input{
+    margin-top: 0.1px;
+    width: 100%;
+    height: 36px;
+    border-top-left-radius: 0.3rem;
+    border-bottom-left-radius: 0.3rem;
+
+}
+
+#f1c1{
+    margin-top: 1px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 35px;
+    width: 35px;
+    background-color: orange;
+    border-top-right-radius: 0.3rem;
+    border-bottom-right-radius: 0.3rem;
+}
+
+#f1c1 i{
+    font-size: 20px;
+    text-align: center;
+}
+
+#f1d{
+    width: 5%;
+    height: 100%;
+
+}
+
+#f1d h5{
+    width: 100%;
+    height: 50%;
+    color: white;
+    opacity: .5;
+    margin-left: 20px;
+
+}
+
+#h51{
+    width: 100%;
+    height: 50%;
+    color: white;
+    margin-left: 25px;
+    font-size: 15px;
+}
+
+#f1e{
+    width: 10%;
+    height: 100%;
+
+}
+
+#f1e h5{
+    width: 100%;
+    height: 50%;
+    color: white;
+    opacity: .5;
+    margin-left: 25px;
+    font-weight: 500;
+
+}
+
+#f1e1{
+    color: white;
+    font-size: 15px;
+    margin-left: 12px;
+}
+
+#f1f{
+    color: white;
+    width: 5%;
+    height: 100%;
+    font-size: 17px;
+}
+
+#f1g{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    width: 25%;
+    height: 100%;
+    color: white;
+}
+
+#f1g i{
+    margin-left: 80%;
+    color: white;
+    width: 100%;
+    height: 100%;
+    font-size: 32px;
+
+}
+
+#f2{ 
+    display: flex;
+    width: 100%;
+    height: 40px;
+    background-color: #394451;
+}
+
+#f2l{
+    display: flex;
+    align-items: center;
+    width: 70%;
+    height: 100%;
+}
+
+#f2l a{
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+    font-weight: 500;
+    font-size: 14px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}  
+
+#f2r{
+    width: 30%;
+    height: 40px;
+    background-image: url(https://m.media-amazon.com/images/G/31/AmazonVideo/2021/X-site/SingleTitle/Sabun/400x39-SWM-NP._CB570471059_.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#f3{
+    width: 100%;
+    height: 300px;
+    background-image: url(https://images-eu.ssl-images-amazon.com/images/G/31/img22/march/brands/GW/Under_1499_Tallhero_3000x1200._CB561212093_.jpg);
+    background-size: cover;
+}
+
+#f4{
+    padding: 20px;
+    width: 100%;
+    height: 600px;
+    background-color: cornsilk;
+}
+
+#f4cnt{
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+
+}
+
+#cnt1{
+    
+    width: 24%;
+    height: 80%;
+    background-color: white;
+    background-size: cover;
+
+
+}
+
+#cnt1 h3{
+    width: 100%;
+}
+
+#row1{
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    width: 95%;
+    height: 44%;
+    margin-top: 8px;
+    margin-left: 8px;
+}
+
+#rowele1{
+    width: 49%;
+    height: 100%;
+    background-color: aliceblue;
+    background-image: url();
+    background-size: cover;
+}
+
+#rowele2{
+    width: 49%;
+    height: 100%;
+    background-color: aliceblue;
+    background-image: url();
+    background-size: cover;
+}
+
+#row2{
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    width: 95%;
+    height: 44%;
+    margin-top: 8px;
+    margin-left: 8px;
+}
+
+#rowele3{
+    width: 49%;
+    height: 100%;
+    background-color: aliceblue;
+    background-image: url();
+    background-size: cover;
+}
+
+#rowele4{
+    width: 49%;
+    height: 100%;
+    background-color: aliceblue;
+    background-image: url();
+    background-size: cover;
+}
+
+#cnt2{
+    width: 24%;
+    height: 80%;
+    background-color: white;
+    background-size: cover;
+
+
+}
+
+#cnt2 h3{
+    width: 100%;
+}
+
+#row3{
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    width: 95%;
+    height: 44%;
+    margin-top: 8px;
+    margin-left: 8px;
+}
+
+#rowele5{
+    width: 47%;
+    height: 100%;
+    background-color: aliceblue;
+    background-image: url();
+    background-size: cover;
+}
+
+#rowele6{
+    width: 47%;
+    height: 100%;
+    background-color: aliceblue;
+    background-image: url();
+    background-size: cover;
+}
+
+#row4{
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    width: 95%;
+    height: 44%;
+    margin-top: 8px;
+    margin-left: 8px;
+}
+
+#rowele7{
+    width: 47%;
+    height: 100%;
+    background-color: aliceblue;
+    background-image: url();
+    background-size: cover;
+}
+
+#rowele8{
+    width: 47%;
+    height: 100%;
+    background-color: aliceblue;
+    background-image: url();
+    background-size: cover;
+}
+
+
+#cnt3{
+    width: 24%;
+    height: 80%;
+    background-color: white;
+    background-size: cover;
+
+
+}
+
+#cnt3 h3{
+    width: 100%;
+}
+
+#row5{
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    width: 95%;
+    height: 44%;
+    margin-top: 8px;
+    margin-left: 8px;
+}
+
+#rowele9{
+    width: 47%;
+    height: 100%;
+    background-color: aliceblue;
+    background-image: url();
+    background-size: cover;
+}
+
+#rowele10{
+    width: 47%;
+    height: 100%;
+    background-color: aliceblue;
+    background-image: url();
+    background-size: cover;
+}
+
+#row6{
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    width: 95%;
+    height: 44%;
+    margin-top: 8px;
+    margin-left: 8px;
+}
+
+#rowele11{
+    width: 47%;
+    height: 100%;
+    background-color: aliceblue;
+    background-image: url();
+    background-size: cover;
+}
+
+#rowele12{
+    width: 47%;
+    height: 100%;
+    background-color: aliceblue;
+    background-image: url();
+    background-size: cover;
+    background-position: center;
+}
+
+
+#cnt4{
+    width: 24%;
+    height: 80%;
+    background-color: white;
+    background-size: cover;
+
+
+}
+
+#cnt4 h3{
+    width: 100%;
+}
+
+#row7{
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    width: 95%;
+    height: 44%;
+    margin-top: 8px;
+    margin-left: 8px;
+}
+
+#rowele13{
+    width: 49%;
+    height: 100%;
+    background-color: #f0f8ff;
+    background-image: url();
+    background-size: cover;
+}
+
+#rowele14{
+    width: 49%;
+    height: 100%;
+    background-color: aliceblue;
+    background-image: url();
+    background-size: cover;
+}
+
+#row8{
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    width: 95%;
+    height: 44%;
+    margin-top: 8px;
+    margin-left: 8px;
+}
+
+#rowele15{
+    width: 49%;
+    height: 100%;
+    background-color: aliceblue;
+    background-image: url();
+    background-size: cover;
+}
+
+#rowele16{
+    width: 49%;
+    height: 100%;
+    background-color: aliceblue;
+    background-image: url();
+    background-size: cover;
+}
